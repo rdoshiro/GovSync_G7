@@ -1,0 +1,7 @@
+{
+  "name": "GovSync: Inter-Provincial Transfer Assistant",
+  "description": "AI-powered desktop tool for government service counter workers to automate cross-jurisdictional driver licensing transfers and validation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
